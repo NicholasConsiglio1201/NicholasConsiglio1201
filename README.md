@@ -13,9 +13,9 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 * 📈: Tableau
 
 ## Completed Projects:
-🦈 - Global Shark Attacks
-🏀 - Predicting NBA 2024 Champions
-🦠 - Object Detection of Microogranisms
+- 🦈 - Global Shark Attacks
+- 🏀 - Predicting NBA 2024 Champions
+- 🦠 - Object Detection of Microogranisms
 
 <!--
 **NicholasConsiglio1201/NicholasConsiglio1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
