@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋 My name is Nicholas Consiglio and welcome to my Github page!
 
 <!--
 **NicholasConsiglio1201/NicholasConsiglio1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
