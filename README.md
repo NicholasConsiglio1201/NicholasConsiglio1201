@@ -6,11 +6,11 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 
 ## Technologies and Tools
 
-🐍 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and more)
-🌐 - R
-🌆: SQL
-📊: Power BI
-📈: Tableau
+* 🐍 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and more)
+* 🌐 - R
+* 🌆: SQL
+* 📊: Power BI
+* 📈: Tableau
 
 ## Completed Projects:
 🦈 - Global Shark Attacks
