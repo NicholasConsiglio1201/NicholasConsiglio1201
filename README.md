@@ -20,7 +20,8 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
   ## Visualizations from Projects
 
 #### College Representation for NBA 2023-2024 Season
-<img width="400" alt="Capture" src="https://github.com/user-attachments/assets/e9fdb41e-647a-4291-a9fc-2e67a5fcfd2c">
+<img width="400" alt="Capture" src="https://github.com/user-attachments/assets/e9fdb41e-647a-4291-a9fc-2e67a5fcfd2c">     <img width="460" alt="Shark Attacks 3" src="https://github.com/user-attachments/assets/6d882b3d-cdc0-473d-9c27-e3ec1049ee8e">
+
 
 <!--
 **NicholasConsiglio1201/NicholasConsiglio1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
