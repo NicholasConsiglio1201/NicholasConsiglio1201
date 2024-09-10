@@ -17,7 +17,10 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 - 🏀 - Predicting NBA 2024 Champions
 - 🦠 - Object Detection of Microogranisms
 
-<img width="300" alt="Capture" src="https://github.com/user-attachments/assets/e9fdb41e-647a-4291-a9fc-2e67a5fcfd2c">
+  ## Visualizations from Projects
+
+#### College Representation for NBA 2023-2024 Season
+<img width="400" alt="Capture" src="https://github.com/user-attachments/assets/e9fdb41e-647a-4291-a9fc-2e67a5fcfd2c">
 
 <!--
 **NicholasConsiglio1201/NicholasConsiglio1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
