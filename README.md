@@ -7,7 +7,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 ## Technologies and Tools
 
 * 🐍 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and more)
-* 🌐 - R
+* 🌐 - R (Time-Series)
 * 🌆 - SQL
 * 📊 - Power BI
 * 📈 - Tableau
