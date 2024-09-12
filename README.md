@@ -28,7 +28,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 
 
 ![](https://github.com/NicholasConsiglio1201/NicholasConsiglio1201/blob/main/LinkObjectTracking-ezgif.com-speed.gif))
-
+<img src="https://github.com/user-attachments/assets/5e693e27-9da4-49bb-aaef-011548156603" width="300" />
 
 
 
