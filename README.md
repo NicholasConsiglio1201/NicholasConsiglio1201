@@ -24,7 +24,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 
 #### 2024 NBA Champions Predictions
 <img width="350" alt="Boston Celtics Winners" src="https://github.com/user-attachments/assets/359ab74d-b701-448e-9a55-363859978fab">
-![LinkObjectTracking-ezgif com-speed](https://github.com/user-attachments/assets/5e693e27-9da4-49bb-aaef-011548156603.gif)
+![Object Tracking Gif](LinkObjectTracking-ezgif.com-speed.gif)
 
 
 
