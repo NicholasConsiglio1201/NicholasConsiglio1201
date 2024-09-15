@@ -9,13 +9,16 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 * 🐍 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and more)
 * 🌐 - R (Time-Series)
 * 🌆 - SQL
+* 📉 - SAS
 * 📊 - Power BI
 * 📈 - Tableau
 
 ## Completed Projects:
 - 🦈 - Global Shark Attacks
 - 🏀 - Predicting NBA 2024 Champions
-- 🦠 - Object Detection of Microogranisms
+- 🏫 - Predicting Average Instructional Staff Salary at Four-Year Universities
+- 🦠 - Object Detection of Micro-Organisms
+- ✈️ - Predicting Flights to Hawaii
 
   ## Visualizations from Projects
 
